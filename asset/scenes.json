@@ -1,0 +1,457 @@
+[
+  {
+    "id": "scene1",
+    "title": "Tragedi Karhutla di Indonesia",
+    "text": "Pernahkah kalian melihat langit Indonesia berubah menjadi merah pekat karena kabut asap tebal?",
+    "audioFile": "scene1.wav",
+    "duration": 4.872,
+    "durationFrames": 146,
+    "words": [
+      {
+        "word": "Pernahkah",
+        "start": 0.0,
+        "end": 0.37
+      },
+      {
+        "word": "kalian",
+        "start": 0.37,
+        "end": 0.75
+      },
+      {
+        "word": "melihat",
+        "start": 0.75,
+        "end": 1.12
+      },
+      {
+        "word": "langit",
+        "start": 1.12,
+        "end": 1.5
+      },
+      {
+        "word": "Indonesia",
+        "start": 1.5,
+        "end": 1.87
+      },
+      {
+        "word": "berubah",
+        "start": 1.87,
+        "end": 2.25
+      },
+      {
+        "word": "menjadi",
+        "start": 2.25,
+        "end": 2.62
+      },
+      {
+        "word": "merah",
+        "start": 2.62,
+        "end": 3.0
+      },
+      {
+        "word": "pekat",
+        "start": 3.0,
+        "end": 3.37
+      },
+      {
+        "word": "karena",
+        "start": 3.37,
+        "end": 3.75
+      },
+      {
+        "word": "kabut",
+        "start": 3.75,
+        "end": 4.12
+      },
+      {
+        "word": "asap",
+        "start": 4.12,
+        "end": 4.5
+      },
+      {
+        "word": "tebal?",
+        "start": 4.5,
+        "end": 4.87
+      }
+    ]
+  },
+  {
+    "id": "scene2",
+    "title": "Ancaman Lahan Gambut",
+    "text": "Setiap musim kemarau, bencana Karhutla atau Kebakaran Hutan dan Lahan kembali melanda Sumatera dan Kalimantan.",
+    "audioFile": "scene2.wav",
+    "duration": 6.384,
+    "durationFrames": 192,
+    "words": [
+      {
+        "word": "Setiap",
+        "start": 0.0,
+        "end": 0.43
+      },
+      {
+        "word": "musim",
+        "start": 0.43,
+        "end": 0.85
+      },
+      {
+        "word": "kemarau,",
+        "start": 0.85,
+        "end": 1.28
+      },
+      {
+        "word": "bencana",
+        "start": 1.28,
+        "end": 1.7
+      },
+      {
+        "word": "Karhutla",
+        "start": 1.7,
+        "end": 2.13
+      },
+      {
+        "word": "atau",
+        "start": 2.13,
+        "end": 2.55
+      },
+      {
+        "word": "Kebakaran",
+        "start": 2.55,
+        "end": 2.98
+      },
+      {
+        "word": "Hutan",
+        "start": 2.98,
+        "end": 3.4
+      },
+      {
+        "word": "dan",
+        "start": 3.4,
+        "end": 3.83
+      },
+      {
+        "word": "Lahan",
+        "start": 3.83,
+        "end": 4.26
+      },
+      {
+        "word": "kembali",
+        "start": 4.26,
+        "end": 4.68
+      },
+      {
+        "word": "melanda",
+        "start": 4.68,
+        "end": 5.11
+      },
+      {
+        "word": "Sumatera",
+        "start": 5.11,
+        "end": 5.53
+      },
+      {
+        "word": "dan",
+        "start": 5.53,
+        "end": 5.96
+      },
+      {
+        "word": "Kalimantan.",
+        "start": 5.96,
+        "end": 6.38
+      }
+    ]
+  },
+  {
+    "id": "scene3",
+    "title": "Bencana di Bawah Tanah",
+    "text": "Lahan gambut yang mengering terbakar hingga ke bawah tanah! Api sulit dipadamkan dan jutaan ton karbon terlepas ke atmosfer.",
+    "audioFile": "scene3.wav",
+    "duration": 7.368,
+    "durationFrames": 221,
+    "words": [
+      {
+        "word": "Lahan",
+        "start": 0.0,
+        "end": 0.39
+      },
+      {
+        "word": "gambut",
+        "start": 0.39,
+        "end": 0.78
+      },
+      {
+        "word": "yang",
+        "start": 0.78,
+        "end": 1.16
+      },
+      {
+        "word": "mengering",
+        "start": 1.16,
+        "end": 1.55
+      },
+      {
+        "word": "terbakar",
+        "start": 1.55,
+        "end": 1.94
+      },
+      {
+        "word": "hingga",
+        "start": 1.94,
+        "end": 2.33
+      },
+      {
+        "word": "ke",
+        "start": 2.33,
+        "end": 2.71
+      },
+      {
+        "word": "bawah",
+        "start": 2.71,
+        "end": 3.1
+      },
+      {
+        "word": "tanah!",
+        "start": 3.1,
+        "end": 3.49
+      },
+      {
+        "word": "Api",
+        "start": 3.49,
+        "end": 3.88
+      },
+      {
+        "word": "sulit",
+        "start": 3.88,
+        "end": 4.27
+      },
+      {
+        "word": "dipadamkan",
+        "start": 4.27,
+        "end": 4.65
+      },
+      {
+        "word": "dan",
+        "start": 4.65,
+        "end": 5.04
+      },
+      {
+        "word": "jutaan",
+        "start": 5.04,
+        "end": 5.43
+      },
+      {
+        "word": "ton",
+        "start": 5.43,
+        "end": 5.82
+      },
+      {
+        "word": "karbon",
+        "start": 5.82,
+        "end": 6.2
+      },
+      {
+        "word": "terlepas",
+        "start": 6.2,
+        "end": 6.59
+      },
+      {
+        "word": "ke",
+        "start": 6.59,
+        "end": 6.98
+      },
+      {
+        "word": "atmosfer.",
+        "start": 6.98,
+        "end": 7.37
+      }
+    ]
+  },
+  {
+    "id": "scene4",
+    "title": "Dampak Mengerikan Bagi Kehidupan",
+    "text": "Bukan hanya satwa langka yang kehilangan habitatnya, ratusan ribu saudara kita terserang ISPA dan aktivitas pun lumpuh total.",
+    "audioFile": "scene4.wav",
+    "duration": 6.936,
+    "durationFrames": 208,
+    "words": [
+      {
+        "word": "Bukan",
+        "start": 0.0,
+        "end": 0.39
+      },
+      {
+        "word": "hanya",
+        "start": 0.39,
+        "end": 0.77
+      },
+      {
+        "word": "satwa",
+        "start": 0.77,
+        "end": 1.16
+      },
+      {
+        "word": "langka",
+        "start": 1.16,
+        "end": 1.54
+      },
+      {
+        "word": "yang",
+        "start": 1.54,
+        "end": 1.93
+      },
+      {
+        "word": "kehilangan",
+        "start": 1.93,
+        "end": 2.31
+      },
+      {
+        "word": "habitatnya,",
+        "start": 2.31,
+        "end": 2.7
+      },
+      {
+        "word": "ratusan",
+        "start": 2.7,
+        "end": 3.08
+      },
+      {
+        "word": "ribu",
+        "start": 3.08,
+        "end": 3.47
+      },
+      {
+        "word": "saudara",
+        "start": 3.47,
+        "end": 3.85
+      },
+      {
+        "word": "kita",
+        "start": 3.85,
+        "end": 4.24
+      },
+      {
+        "word": "terserang",
+        "start": 4.24,
+        "end": 4.62
+      },
+      {
+        "word": "ISPA",
+        "start": 4.62,
+        "end": 5.01
+      },
+      {
+        "word": "dan",
+        "start": 5.01,
+        "end": 5.39
+      },
+      {
+        "word": "aktivitas",
+        "start": 5.39,
+        "end": 5.78
+      },
+      {
+        "word": "pun",
+        "start": 5.78,
+        "end": 6.17
+      },
+      {
+        "word": "lumpuh",
+        "start": 6.17,
+        "end": 6.55
+      },
+      {
+        "word": "total.",
+        "start": 6.55,
+        "end": 6.94
+      }
+    ]
+  },
+  {
+    "id": "scene5",
+    "title": "Jaga Hutan Kita Sekarang!",
+    "text": "Hutan adalah paru-paru dunia. Jangan biarkan serakah membakar masa depan kita. Lindungi hutan Indonesia sekarang juga!",
+    "audioFile": "scene5.wav",
+    "duration": 8.496,
+    "durationFrames": 255,
+    "words": [
+      {
+        "word": "Hutan",
+        "start": 0.0,
+        "end": 0.53
+      },
+      {
+        "word": "adalah",
+        "start": 0.53,
+        "end": 1.06
+      },
+      {
+        "word": "paru-paru",
+        "start": 1.06,
+        "end": 1.59
+      },
+      {
+        "word": "dunia.",
+        "start": 1.59,
+        "end": 2.12
+      },
+      {
+        "word": "Jangan",
+        "start": 2.12,
+        "end": 2.66
+      },
+      {
+        "word": "biarkan",
+        "start": 2.66,
+        "end": 3.19
+      },
+      {
+        "word": "serakah",
+        "start": 3.19,
+        "end": 3.72
+      },
+      {
+        "word": "membakar",
+        "start": 3.72,
+        "end": 4.25
+      },
+      {
+        "word": "masa",
+        "start": 4.25,
+        "end": 4.78
+      },
+      {
+        "word": "depan",
+        "start": 4.78,
+        "end": 5.31
+      },
+      {
+        "word": "kita.",
+        "start": 5.31,
+        "end": 5.84
+      },
+      {
+        "word": "Lindungi",
+        "start": 5.84,
+        "end": 6.37
+      },
+      {
+        "word": "hutan",
+        "start": 6.37,
+        "end": 6.9
+      },
+      {
+        "word": "Indonesia",
+        "start": 6.9,
+        "end": 7.43
+      },
+      {
+        "word": "sekarang",
+        "start": 7.43,
+        "end": 7.97
+      },
+      {
+        "word": "juga!",
+        "start": 7.97,
+        "end": 8.5
+      }
+    ]
+  }
+]
